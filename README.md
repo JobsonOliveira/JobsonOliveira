@@ -1,4 +1,4 @@
-## Olá! Bem vindo ao meu perfil 🙂
+## Hello World! Bem vindo ao meu perfil 🙂
 
 [![portifólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-jobson.netlify.app/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jobson-de-oliveira-coutinho-5882b9251/)
@@ -7,7 +7,7 @@
 
 ![Jobson GitHub stats](https://github-readme-stats.vercel.app/api?username=JobsonOliveira&show_icons=true&theme=radical)
 
-## Tecnologias que eu utilizo:
+## Conhecimento
 
 <div style="display: inline_block"><br>
 	<img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -20,14 +20,19 @@
 	<img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div><br>
 
-## Meu E-mail:<br>
-<div><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></div>jobsonoliveira800@gmail.com
+## E-mail<br>
+<div><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></div>jobsondeveloper@gmail.com
 
 ## Sobre mim:
-Sou um amante da programação, que está sempre em busca da melhor forma de resolver um problema, iniciei na programação durante o ensino médio, onde tive o primeiro contato com lógica de programação, desde então eu tenho buscado cada vez mais conhecimento sobre a área, estudando HTML, CSS, JavasCript, etc. Pretendo seguir uma carreira nesta área, pois cada linha de código que eu escrevo me deixa mais entusiasmado.<br>
-Acredito que um dos melhores propósitos para se viver é tornar a vida do próximo mais fácil.<br>
+Sou um amante da tecnologia, procuro sempre aplicar meus conhecimentos da
+melhor forma possível em tudo que faço, para poder fornecer o melhor
+resultado possível. <br>
+  Acredito que as dificuldades precisam existir, para termos a oportunidade de
+aprender com nossos erros e evoluir, busco sempre me comunicar com a
+equipe, para haver o compartilhamento dos conhecimentos e criação um bom
+relacionamento.<br>
 
 ## Minhas características principais:
-- Calma.
+- Dedicação.
 - Paciência.
 - Curiosidade.
