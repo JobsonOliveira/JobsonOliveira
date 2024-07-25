@@ -20,7 +20,7 @@
 	<img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div><br>
 
-![snake animation](https://github.com/JobsonOliveira/JobsonOliveira/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/JobsonOliveira/JobsonOliveira/blob/output/github-contribution-grid-snake-dark.svg)
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=JobsonOliveira&repo=JobsonOliveira&theme=react)](https://github.com/JobsonOliveira/JobsonOliveira)
 
