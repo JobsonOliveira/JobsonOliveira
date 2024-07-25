@@ -20,9 +20,6 @@
 	<img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div><br>
 
-![snake gif](https://github.com/JobsonOliveira/JobsonOliveira/blob/output/github-contribution-grid-snake.svg)
-
-
 ## E-mail<br>
 <div><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></div>jobsondeveloper@gmail.com
 
@@ -40,3 +37,5 @@ relacionamento.<br>
 - Dedicação.
 - Paciência.
 - Curiosidade.
+
+![snake gif](https://github.com/JobsonOliveira/JobsonOliveira/blob/output/github-contribution-grid-snake.svg)
